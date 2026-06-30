@@ -177,7 +177,7 @@ export const SkillsInfo = [
   export const education = [
     {
       id: 0,
-      img: smt,
+      img: Engineering,
       school: "Nbn Sinhgad Technical Campus , Pune",
       date: "July 2021 - July 2024",
       grade: "8.06 CGPA",
@@ -195,7 +195,7 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      img: Engineering,
+      img: smt,
       school: "Smt S.G Lanke Secondary School,Parner",
       date: "Apr 2017 - March 2018",
       grade: "82%",
